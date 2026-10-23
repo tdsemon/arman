@@ -1,0 +1,6 @@
+{
+  "summary": "Comprehensive architectural blueprint and implementation plan for the Arman Portfolio Full-Control CMS Upgrade. Covers the site_text universal string registry, section management, legal pages, SEO controls, live inline editing with floating pill toggle, video link auto-fill, project custom fields and bulk actions, theme color customization with WCAG AA validation, media library management, JSON backup and version history, owner/editor multi-tier roles, and non-destructive Supabase migrations.",
+  "updatedAt": "2026-10-18T03:32:35.639297997Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
