@@ -1,0 +1,40 @@
+# dependencies
+node_modules/
+.npm-global/
+
+# build output
+dist/
+dist-ssr/
+.vite/
+*.tsbuildinfo
+
+# secrets: never commit real keys
+.env
+.env.*
+!.env.example
+
+# nix / direnv
+.direnv/
+result
+result-*
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# editor / os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# cloudflare / vercel local state
+.wrangler/
+.vercel/
+
+# ai studio local metadata (remove this line if you want it in the repo)
+.aistudio/
