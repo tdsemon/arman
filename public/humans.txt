@@ -1,0 +1,8 @@
+/* TEAM */
+Name: Arman
+Role: Freelance Video Editor
+Contact: emraninspired@gmail.com
+
+/* SITE */
+Components: React, Vite, Supabase
+Hosting: Cloudflare Pages
